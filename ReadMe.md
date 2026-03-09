@@ -9,4 +9,3 @@ Expand-Archive -Path $output -DestinationPath "$env:USERPROFILE\fnm"
 
 ### 2. skill仓库
 参考地址：https://skills.sh/
-![Uploading image.png…]()
